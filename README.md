@@ -5,25 +5,30 @@ Consumption can be expressed in terms of volume of fuel to travel a distance, or
 Fuel Economy Data
 This information is provided by the U.S. Environmental Protection Agency, Office of Mobile Sources, National Vehicle and Fuel Emissions Laboratory.
 
-Attribute	Description
+
+
 Model	Vehicle make and model
+<br>
 Displ	Engine displacement - the size of an engine in liters
+<br>
 Cyl	The number of cylinders in a particular engine
+<br>
 Trans	Transmission Type and Number of Gears
+<br>
 Drive	Drive axle type (2WD = 2-wheel drive, 4WD = 4-wheel/all-wheel drive)
 Fuel	Fuel Type
+<br>
 Cert Region*	Certification Region Code
+<br>
 Sales Area**	Certification Region Code
-Stnd	Vehicle emissions standard code
-Stnd Description*	Vehicle emissions standard description
-Underhood ID	This is a 12-digit ID number that can be found on the underhood emission label of every vehicle. It's required by the EPA to designate its "test group" or "engine family." This is explained more here
-Veh Class	EPA Vehicle Class
-Air Pollution Score	Air pollution score (smog rating)
-City MPG	Estimated city mpg (miles/gallon)
-Hwy MPG	Estimated highway mpg (miles/gallon)
-Cmb MPG	Estimated combined mpg (miles/gallon)
-Greenhouse Gas Score	Greenhouse gas rating
-SmartWay	Yes, No, or Elite
-Comb CO2*	Combined city/highway CO2 tailpipe emissions in grams per mile
-* Not included in 2008 dataset
-** Not included in 2018 dataset
+<br>Stnd	Vehicle emissions standard code
+<br>Stnd Description*	Vehicle emissions standard description
+<br>Underhood ID	This is a 12-digit ID number that can be found on the underhood emission label of every vehicle. It's required by the EPA to designate its "test group" or "engine family." This is explained more here
+<br>Veh Class	EPA Vehicle Class
+<br>Air Pollution Score	Air pollution score (smog rating)
+<br>City MPG	Estimated city mpg (miles/gallon)
+<br>Hwy MPG	Estimated highway mpg (miles/gallon)
+<br>Cmb MPG	Estimated combined mpg (miles/gallon)
+<br>Greenhouse Gas Score	Greenhouse gas rating
+<br>SmartWay	Yes, No, or Elite
+<br>Comb CO2*	Combined city/highway CO2 tailpipe emissions in grams per mile
